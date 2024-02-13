@@ -21,7 +21,7 @@ Both 'EIN' and 'NAME' columns were dropped/removed, because they were neither ta
 Compiling, Training, and Evaluating the Model
 
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
-
+3 layers were added.
 
 Were you able to achieve the target model performance?
 My model reached 57.9% accuracy.
